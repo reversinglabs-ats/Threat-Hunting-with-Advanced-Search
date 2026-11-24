@@ -1,6 +1,6 @@
 # About this document
 
-This library collects a set of threat hunting notes and detection queries for Spectra Analyze and Intelligence Advanced Search. 
+A set of threat hunting notes and detection queries for Spectra Analyze and Intelligence Advanced Search. 
 
 
 # Conventions
